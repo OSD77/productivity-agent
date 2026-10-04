@@ -1,8 +1,8 @@
 # Progress
 
-- **Next lesson:** Day 0 — Intake
+- **Next lesson:** Day 1 — Leadership Is Influence
 - **Started:** 2026-10-04
-- **Last session:** —
+- **Last session:** 2026-10-04 (Day 0 intake)
 - **Sessions completed:** 0
 - **Streak:** 0
 
@@ -16,3 +16,4 @@ _(lessons due for spaced retrieval: 1, 3, 7, 21 sessions after completion)_
 
 | # | Date | Lesson | Key takeaway | Work challenge → outcome | Home challenge → outcome |
 |---|---|---|---|---|---|
+| 0 | 2026-10-04 | Intake | Running cases: influencing the CEO co-founder; passing values to the kids | — | — |

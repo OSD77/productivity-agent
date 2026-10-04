@@ -1,6 +1,6 @@
 # Learner Profile
 
-_Day 0 intake in progress (started 2026-10-04). Kept deliberately generic: no customer, investor or advisor names._
+_Intake completed 2026-10-04. Kept deliberately generic: no customer, investor or advisor names._
 
 ## About me
 - Name: Orel
@@ -13,27 +13,29 @@ _Day 0 intake in progress (started 2026-10-04). Kept deliberately generic: no cu
 - Books already read:
 
 ## My 60-day goal
-- At work, a great leader version of me will…
-- At home, a great leader version of me will…
+- "I'll have the tools to influence the people around me, at work and at home."
+- Coach note: the work test is whether the CEO co-founder starts acting on Orel's input. The home test is whether the kids choose reading and values without a fight.
 
 ## Preferences
-- Session length:
-- Style (direct / gentle, stories / drills):
+- Session length: ~15 min (default)
+- Style: **direct, brutal, concise.** More drills and role-plays, fewer stories.
 
 ## Self-assessment (1–10)
 
 | Competency | Day 0 | Day 30 | Day 60 |
 |---|---|---|---|
-| Self-leadership | | | |
-| Vision & purpose | | | |
-| Trust | | | |
-| Communication | | | |
-| Feedback | | | |
-| Developing people | | | |
-| Execution | | | |
-| Conflict & resilience | | | |
-| Culture | | | |
-| Character & legacy | | | |
+| Self-leadership | 5 | | |
+| Vision & purpose | 10 | | |
+| Trust | 9 | | |
+| Communication | 6 | | |
+| Feedback | 7 | | |
+| Developing people | 7 | | |
+| Execution | 10 | | |
+| Conflict & resilience | 7 | | |
+| Culture | 6 | | |
+| Character & legacy | 8 | | |
+
+Day 0 notes: owns outcomes well, but **struggles to stay calm**. Vision and Execution were rated 10 even though advisors call the pitch too broad, so test these in Modules 2 and 7.
 
 ## Personal mission statement
 _(written on Day 9, finalized Day 12)_
